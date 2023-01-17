@@ -1,0 +1,31 @@
+p {
+	font-size: 14px;
+	font-family: 'Silkscreen', cursive;
+}
+#example {
+	width: 100px;
+	height: 20px;
+	resize: none;
+	font-family: 'Silkscreen', cursive;
+	border: solid black 2px;
+}
+#smooth {
+	font-family: 'Silkscreen', cursive;
+	background: url(summ.png);
+	border: 0px;
+	width: 32px;
+	height: 32px;
+	cursor: pointer;
+}
+html {
+	background-color: grey;
+}
+#output {
+	background-color: white;
+	border: solid black 2px;
+	width: 500px;
+	height: 20px;
+}
+body {
+	background-color: grey;
+}
